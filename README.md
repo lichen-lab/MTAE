@@ -5,6 +5,9 @@ Multi-task deep autoencoder improves the prediction for Alzheimer's disease prog
 ## Introduction
 We develop two Multi-Task deep AutoEncoder based on Long Short-Term Memory AutoEncoder (MT-LSTMAE) and Convolutional AutoEncoder respectively, which take the advantage of capacity of LSTM and convolutional network for learning the dependency on temporal DNA methylation data, to predict AD progression using longitudinal DNA methylation data collected from peripheral blood. 
 
+## Maintainer
+
+Li Chen (chen61@iu.edu)
 
 ## Requirements and Installation
 
