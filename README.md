@@ -7,7 +7,7 @@ We develop two Multi-Task deep AutoEncoder based on Long Short-Term Memory AutoE
 
 ## Maintainer
 
-Li Chen (chen61@iu.edu)
+Li Chen (li.chen1@ufl.edu)
 
 ## Requirements and Installation
 
